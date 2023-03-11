@@ -1,1 +1,11 @@
-/*# sourceMappingURL=main.css.map */
+nav {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(23, 25, 29, 0.7);
+  -webkit-backdrop-filter: blur(1px);
+          backdrop-filter: blur(1px);
+}/*# sourceMappingURL=main.css.map */
